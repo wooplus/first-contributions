@@ -6,6 +6,7 @@
 - [Singapore750](https://github.com/Singapore750)
 - [noonereedus]
 - [Rain Bigsby](https://github.com/RainBigsby)
+- [Bryan](https://github.com/wooplus)
 - [David Porto](https://github.com/davidaleth)
 - [santosh upadhyaya](https://github.com/santosh-786)
 - [Faisal Amin](https://github.com/faisalamin001)
